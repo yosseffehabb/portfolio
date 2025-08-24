@@ -45,7 +45,7 @@ const AboutMe = () => {
                 <div className="group relative">
                   <div className="bg-gradient-primary absolute -inset-1 rounded-2xl opacity-75 blur transition duration-300 group-hover:opacity-100" />
                   <img
-                    src="/public/imgs/me2.jpeg"
+                    src="/imgs/me2.jpeg"
                     alt="Yossef Ehab - Frontend Developer"
                     className="relative h-80 w-64 rounded-xl object-cover shadow-lg transition-transform duration-300 group-hover:scale-105 lg:h-96 lg:w-72"
                   />
