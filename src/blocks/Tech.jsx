@@ -37,7 +37,10 @@ const itemVariants = {
 
 function Tech() {
   return (
-    <section className="flex items-center justify-center bg-charcoal py-20">
+    <section
+      className="flex items-center justify-center bg-charcoal py-20"
+      id="tech"
+    >
       <div className="container px-4">
         <motion.div
           initial={{ opacity: 0, y: 30 }}
